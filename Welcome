@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+</style>
+
+<title> Welcome to SecondHand Treasures! </title>
+</head>
+<body>
+<div class="dropdown">
+<button class="dropbtn">Menu</button>
+<div class="dropdown-content">
+<a href="Welcome.html">Welcome</a>
+<a href="About.html">About Us</a>
+<a href="SaleItems.html"> Items for Sale</a>
+<a href="SellingHub.html"> Selling Hub </a>
+<a href="FAQ.html">Frequently Asked Questions</a>
+</div>
+
+<h1> Welcome to Secondhand Treasures!</h1>
+<br>
+<div="photos">
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
+</div>
+
+<br>
+<p> Welcome to Secondhand Treasures! ST serves as an online secondhand store that
+caters to clothing, accessories, music, and more. The main purpose of ST is to promote
+sustainable living and recycling, bettering our environment while combatting unnecessary
+post-consumer waste. Join our cause today by purchasing any available items. :) </p>
+
+<a href="SellingHub.html"> Interested in selling? Click Here! </a>
+</body>
+
