@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+</style>
+
+<title> Frequently Asked Questions </title>
+</head>
+<body>
+<div class="dropdown">
+<button class="dropbtn">Menu</button>
+<div class="dropdown-content">
+<a href="Welcome.html">Welcome</a>
+<a href="About.html">About Us</a>
+<a href="SaleItems.html"> Items for Sale</a>
+<a href="SellingHub.html"> Selling Hub </a>
+<a href="FAQ.html">Frequently Asked Questions</a>
+</div>
+
+<h1> Frequently Asked Questions </h1>
+<br>
+<h2> How do I list items for sale on Secondhand Treasures? </h2>
+<p> </p>
+<h2> Can I negotiate prices with buyers? </h2>
+<p> </p>
+<h2> Are there restrictions to what I can sell? </h2>
+<p> </p>
+<h2> Is there a given limit to the number of items I can list for sale? </h2>
+<p> </p>
+<h2> How do I build a successful profile and increase my sales? </h2>
+<p> </p>
+<h2> Are there age restrictions for using Secondhand Treasures? </h2>
+<p> </p>
